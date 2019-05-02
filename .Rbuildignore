@@ -1,0 +1,13 @@
+^projmin\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^autom4te.cache$
+^config.log$
+^config.status$
+^.Rhistory$
+^CODE_OF_CONDUCT\.md$
+^data-raw$
+^.Rhistory$
+^\.travis\.yml$
+^appveyor\.yml$
+^codecov\.yml$
