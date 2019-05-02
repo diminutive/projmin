@@ -5,8 +5,8 @@ sudo: true
 before_install:
   - sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable --yes
   - sudo apt update
-  - sudo apt upgrade
-  - sudo apt install libproj-dev
+  - sudo apt upgrade --assume-yes
+  - sudo apt install --assume-yes libproj-dev
 
 
 after_success:
