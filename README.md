@@ -33,7 +33,7 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(projmin)
-## basic example code
+## basic example codes
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
